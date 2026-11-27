@@ -17,6 +17,8 @@ title: Haengju 1593 Privacy Policy · 행주 1593 개인정보처리방침
 
 **Privacy requests.** Email [haengju@bugcity.io](mailto:haengju@bugcity.io) with privacy questions, questions about how long your information is kept, or requests to access, correct or delete information. Uninstalling the app does not delete records already sent.
 
+We delete ratings and feedback stored in Firestore within 30 days of receiving your deletion request. We do not look up Google Analytics (GA4) records by person. GA4 automatically deletes event data when its 2-month retention period ends and user data when its 14-month retention period ends. New activity resets the 14-month period for that user.
+
 </section>
 
 <h2 id="ko" lang="ko">행주 1593 개인정보처리방침</h2>
@@ -31,5 +33,7 @@ title: Haengju 1593 Privacy Policy · 행주 1593 개인정보처리방침
 **이메일 지원.** 이메일로 문의하면 회신 주소, 문의 내용, 첨부 자료를 문의 처리에 사용합니다. 비밀번호나 카드번호를 보내지 마세요.
 
 **개인정보 관련 요청.** 개인정보 및 보관 기간에 관한 문의와 열람·정정·삭제 요청은 [haengju@bugcity.io](mailto:haengju@bugcity.io)로 보내 주세요. 앱을 삭제해도 이미 전송된 기록은 삭제되지 않습니다.
+
+삭제 요청을 받으면 30일 이내에 Firestore에 저장된 평점과 의견을 삭제합니다. Google Analytics(GA4) 기록은 개인별로 조회하지 않습니다. GA4의 보관 기간은 이벤트 데이터 2개월, 사용자 데이터 14개월이며, 각 기간이 끝나면 자동으로 삭제됩니다. 사용자가 다시 활동하면 해당 사용자의 14개월 보관 기간이 새로 시작됩니다.
 
 </section>
